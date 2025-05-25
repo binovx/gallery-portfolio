@@ -1,4 +1,3 @@
-<script>
   // Data Portfolio
   const portfolioData = {
     profile: {
@@ -270,4 +269,3 @@
   document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
     new PortfolioApp();
   });
-</script>
