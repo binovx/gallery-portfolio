@@ -2,7 +2,7 @@
   // Data Portfolio
   const portfolioData = {
     profile: {
-      name: &quot;Alex Johnson&quot;,
+      name: &quot;Bintang ID&quot;,
       role: &quot;UI/UX Designer &amp; Frontend Developer&quot;,
       image: &quot;https://randomuser.me/api/portraits/men/32.jpg &quot;,
       stats: { projects: 47, experience: 8, clients: 32 },
